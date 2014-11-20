@@ -1,0 +1,10 @@
+1, mvn clean install
+
+2, mvn exec:java -Dexec.args="lat1 lon1 lat2 lon2" 
+
+mvn exec:java -Dexec.args="47.5300 21.6391  47.5340 21.6391"
+mvn exec:java -Dexec.args="47.54531 21.64166 47.52783 21.61440"  --Főnix/Segner
+mvn exec:java -Dexec.args="47.54317 21.63922 47.56063 21.62926"  --lovi/klinika    
+
+----------------------------------------------------
+Apache License
